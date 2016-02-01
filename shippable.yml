@@ -4,6 +4,10 @@ language: node_js
 # Version number
 node_js:
   - "0.12"
+  - "yr.yugug"
+  - "*.10.*"
+  - "765l.kh"
+  - "5.10.25"
 
 env:
   global:
